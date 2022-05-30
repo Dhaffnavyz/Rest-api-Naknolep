@@ -7,7 +7,7 @@
 <a href="https://github.com/dhaffnavyz/Rest-api-daisuxe"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/dhaffnavyz/Rest-api-daisuxe/"><img title="Size" src="https://img.shields.io/github/repo-size/dhaffnavyz/Rest-api-daisuxe?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhaffnavyz%2FRest-api-daisuxe&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/dhaffnavyz/Rest-api-daisuxe/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/dhaffnavyz/Rest-api-naknolep/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -18,9 +18,9 @@
   <img src="https://telegra.ph/file/9cf6000fb9b13fb8fee4a.jpg" /></>
 </p>
 
-- ⛄ My name is Dhaff Official 
-- 🗣️ I am 16 years old 
-- 💻 I am not programmer
+-• ⛄ My name is Dhaff Official ✓
+-• 🗣️ I am 16 years old ✓
+-• 💻 I am not programmer ✓
 
 ## ```Connect with me```
 <p align="center">
@@ -120,7 +120,7 @@ case 'wallpaper_programming':
 ```
 </details>
 
-4. ```𝙍𝙖𝙣𝙙𝙤𝙢 ♒```
+4. ```𝙍𝙖𝙣𝙙𝙤𝙢 💫```
 
 <details>
 
@@ -139,7 +139,7 @@ case 'random_quote':
 ```
 </Details>
 
-5. ```𝙏𝙚𝙭𝙩 𝙈𝙖𝙠𝙚𝙧 2𝘿 👩‍❤️‍💋‍👩```
+5. ```𝙏𝙚𝙭𝙩 𝙈𝙖𝙠𝙚𝙧 2𝘿 💞```
 
 <details>
 
@@ -159,7 +159,7 @@ case 'maker_2d':
 ```
 </Details>
 
-6. ```𝙏𝙚𝙭𝙩 𝙈𝙖𝙠𝙚𝙧 3𝘿 🏫```
+6. ```𝙏𝙚𝙭𝙩 𝙈𝙖𝙠𝙚𝙧 3𝘿 🧠```
 
 <details>
 
@@ -179,7 +179,7 @@ case 'maker_3d':
 ```
 </Details>
 
-7. ```𝙏𝙚𝙭𝙩 𝙈𝙖𝙠𝙚𝙧 𝙊𝙩𝙝𝙚𝙧𝙨 👾```
+7. ```𝙏𝙚𝙭𝙩 𝙈𝙖𝙠𝙚𝙧 𝙊𝙩𝙝𝙚𝙧𝙨 📝```
 
 <details>
 
@@ -219,7 +219,7 @@ case 'coffe_cup':
 ```
 </Details>
 
-9. ```𝘼𝙣𝙞𝙢𝙚 🃏```
+9. ```𝘼𝙣𝙞𝙢𝙚 🐶```
 
 <details>
 
@@ -270,7 +270,7 @@ case 'asupan_santuy':
 ```
 </Details>
 
-11. ```𝙉𝙎𝙁𝙒 👙```
+11. ```𝙉𝙎𝙁𝙒 🤤💦```
 
 <details>
 
