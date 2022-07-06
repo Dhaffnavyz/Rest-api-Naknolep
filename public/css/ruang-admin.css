@@ -67,7 +67,7 @@ a:focus {
 }
 
 .scroll-to-top:hover {
-  background: #5a5c69;
+  background: #ffffff;
   transition: all .3s ease-in-out;
   -webkit-transition: all .3s ease-in-out
 }
@@ -237,7 +237,7 @@ a:focus {
 }
 
 .bg-gray-800 {
-  background-color: #5a5c69 !important
+  background-color: #ffffff !important
 }
 
 .bg-gray-900 {
@@ -285,7 +285,7 @@ a:focus {
 }
 
 .text-gray-800 {
-  color: #5a5c69 !important
+  color: #ffffff !important
 }
 
 .text-gray-900 {
@@ -364,11 +364,11 @@ a:focus {
 }
 
 .border-left-dark {
-  border-left: .25rem solid #5a5c69 !important
+  border-left: .25rem solid #ffffff !important
 }
 
 .border-bottom-dark {
-  border-bottom: .25rem solid #5a5c69 !important
+  border-bottom: .25rem solid #ffffff !important
 }
 
 .progress-sm {
@@ -1424,7 +1424,7 @@ a:focus {
 }
 
 .error {
-  color: #5a5c69;
+  color: #ffffff;
   font-size: 7rem;
   position: relative;
   line-height: 1;
@@ -1609,7 +1609,7 @@ a:focus {
   left: 2px;
   text-shadow: -1px 0 #e74a3b;
   top: 0;
-  color: #5a5c69;
+  color: #ffffff;
   background: #f8f9fc;
   overflow: hidden;
   clip: rect(0, 900px, 0, 0);
@@ -1794,7 +1794,7 @@ a:focus {
   left: -2px;
   text-shadow: 1px 0 #3f51b5;
   top: 0;
-  color: #5a5c69;
+  color: #ffffff;
   background: #f8f9fc;
   overflow: hidden;
   clip: rect(0, 900px, 0, 0);
