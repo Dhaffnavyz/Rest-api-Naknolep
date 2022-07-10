@@ -25,7 +25,7 @@ a:focus {
 }
 
 #wrapper #content-wrapper {
-  background-color: #000000;
+  background-color: #000080;
   width: 100%;
   overflow-x: hidden
 }
@@ -52,7 +52,7 @@ a:focus {
   width: 2.75rem;
   height: 2.75rem;
   text-align: center;
-  color: #000000;
+  color: #000080;
   background: rgba(90, 92, 105, .5);
   line-height: 46px;
   transition: all .3s ease-in-out;
@@ -61,13 +61,13 @@ a:focus {
 
 .scroll-to-top:focus,
 .scroll-to-top:hover {
-  color: #000000;
+  color: #000080;
   transition: all .3s ease-in-out;
   -webkit-transition: all .3s ease-in-out
 }
 
 .scroll-to-top:hover {
-  background: ##000080;
+  background: #ffffff;
   transition: all .3s ease-in-out;
   -webkit-transition: all .3s ease-in-out
 }
@@ -186,9 +186,9 @@ a:focus {
 }
 
 .bg-gradient-light {
-  background-color: #000000;
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(10%, #000000), to(#c2cbe5));
-  background-image: linear-gradient(180deg, #000000 10%, #c2cbe5 100%);
+  background-color: #000080;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(10%, #000080), to(#c2cbe5));
+  background-image: linear-gradient(180deg, #000080 10%, #c2cbe5 100%);
   background-size: cover
 }
 
@@ -308,11 +308,11 @@ a:focus {
 }
 
 .border-left-primary {
-  border-left: .25rem solid #3f51b5 !important
+  border-left: .25rem solid #3e3c4f !important
 }
 
 .border-bottom-primary {
-  border-bottom: .25rem solid #3f51b5 !important
+  border-bottom: .25rem solid #3e3c4f !important
 }
 
 .border-left-secondary {
@@ -513,11 +513,11 @@ a:focus {
 }
 
 .topbar .dropdown-list .dropdown-header {
-  background-color: #3f51b5;
-  border: 1px solid #3f51b5;
+  background-color: #3e3c4f;
+  border: 1px solid #3e3c4f;
   padding-top: .75rem;
   padding-bottom: .75rem;
-  color: #000000
+  color: #000080
 }
 
 .topbar .dropdown-list .dropdown-item {
@@ -549,7 +549,7 @@ a:focus {
   position: absolute;
   bottom: 0;
   right: 0;
-  border: .125rem solid #000000
+  border: .125rem solid #000080
 }
 
 .topbar .dropdown-list .dropdown-item .text-truncate {
@@ -603,7 +603,7 @@ a:focus {
 .sidebar {
   min-height: 100vh;
   width: 14rem !important;
-  background-color: #000000 !important;
+  background-color: #000080 !important;
   -webkit-box-shadow: 0 .15rem 1.75rem 0 rgba(58, 59, 69, .15) !important;
   box-shadow: 0 .15rem 1.75rem 0 rgba(58, 59, 69, .15) !important;
   z-index: 0
@@ -1016,7 +1016,7 @@ a:focus {
 
   .sidebar.toggled .nav-item .collapse .collapse-inner .collapse-item.active,
   .sidebar.toggled .nav-item .collapsing .collapse-inner .collapse-item.active {
-      color: #3f51b5;
+      color: #3e3c4f;
       font-weight: 800
   }
 
@@ -1149,7 +1149,7 @@ a:focus {
 }
 
 .sidebar-dark .sidebar-brand {
-  color: #000000
+  color: #000080
 }
 
 .sidebar-dark hr.sidebar-divider {
@@ -1171,13 +1171,13 @@ a:focus {
 .sidebar-dark .nav-item .nav-link:active,
 .sidebar-dark .nav-item .nav-link:focus,
 .sidebar-dark .nav-item .nav-link:hover {
-  color: #000000
+  color: #000080
 }
 
 .sidebar-dark .nav-item .nav-link:active i,
 .sidebar-dark .nav-item .nav-link:focus i,
 .sidebar-dark .nav-item .nav-link:hover i {
-  color: #000000
+  color: #000080
 }
 
 .sidebar-dark .nav-item .nav-link[data-toggle=collapse]::after {
@@ -1185,11 +1185,11 @@ a:focus {
 }
 
 .sidebar-dark .nav-item.active .nav-link {
-  color: #000000
+  color: #000080
 }
 
 .sidebar-dark .nav-item.active .nav-link i {
-  color: #000000
+  color: #000080
 }
 
 .sidebar-dark #sidebarToggle {
@@ -1339,7 +1339,7 @@ a:focus {
 
 .btn-google {
   color: #434334;
-  background-color: #000000;
+  background-color: #000080;
   border-color: #bdbdbd;
   -webkit-box-shadow: 0 .125rem .25rem 0 rgba(58, 59, 69, .2) !important;
   box-shadow: 0 .125rem .25rem 0 rgba(58, 59, 69, .2) !important;
@@ -1381,16 +1381,16 @@ a:focus {
 }
 
 .btn-facebook {
-  color: #000000;
+  color: #000080;
   background-color: #3b5998;
-  border-color: #000000;
+  border-color: #000080;
   -webkit-box-shadow: 0 .125rem .25rem 0 rgba(58, 59, 69, .2) !important;
   box-shadow: 0 .125rem .25rem 0 rgba(58, 59, 69, .2) !important;
   border-radius: .25rem
 }
 
 .btn-facebook:hover {
-  color: #000000;
+  color: #000080;
   background-color: #30497c;
   border-color: #e6e6e6
 }
@@ -1403,15 +1403,15 @@ a:focus {
 
 .btn-facebook.disabled,
 .btn-facebook:disabled {
-  color: #000000;
+  color: #000080;
   background-color: #3b5998;
-  border-color: #000000
+  border-color: #000080
 }
 
 .btn-facebook:not(:disabled):not(.disabled).active,
 .btn-facebook:not(:disabled):not(.disabled):active,
 .show>.btn-facebook.dropdown-toggle {
-  color: #000000;
+  color: #000080;
   background-color: #2d4373;
   border-color: #dfdfdf
 }
@@ -1792,7 +1792,7 @@ a:focus {
   content: attr(data-text);
   position: absolute;
   left: -2px;
-  text-shadow: 1px 0 #3f51b5;
+  text-shadow: 1px 0 #3e3c4f;
   top: 0;
   color: #ffffff;
   background: #f8f9fc;
@@ -1906,15 +1906,15 @@ body.sidebar-toggled footer.sticky-footer {
 .input-group-append span {
   -webkit-box-shadow: 0 .125rem .25rem 0 rgba(58, 59, 69, .2) !important;
   box-shadow: 0 .125rem .25rem 0 rgba(58, 59, 69, .2) !important;
-  color: #000000;
-  background-color: #3f51b5;
-  border-color: #3f51b5
+  color: #000080;
+  background-color: #3e3c4f;
+  border-color: #3e3c4f
 }
 
 .input-group-prepend span {
   -webkit-box-shadow: 0 .125rem .25rem 0 rgba(58, 59, 69, .2) !important;
   box-shadow: 0 .125rem .25rem 0 rgba(58, 59, 69, .2) !important;
-  color: #000000;
-  background-color: #3f51b5;
-  border-color: #3f51b5
+  color: #000080;
+  background-color: #3e3c4f;
+  border-color: #3e3c4f
 }
