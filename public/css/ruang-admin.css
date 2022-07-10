@@ -67,7 +67,7 @@ a:focus {
 }
 
 .scroll-to-top:hover {
-  background: #ffffff;
+  background: ##000080;
   transition: all .3s ease-in-out;
   -webkit-transition: all .3s ease-in-out
 }
